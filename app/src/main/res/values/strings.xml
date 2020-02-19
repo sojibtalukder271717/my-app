@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">IslamicApplication</string>
+
+    <string name="group1">What are the categories of zakatable wealth?</string>
+    <string name="group2">Who can receive zakat?</string>
+    <string name="group3">Who can recieve zakat?</string>
+    <string name="group4">Who can recieve zakat?</string>
+    <string name="group5">Who can recieve zakat?</string>
+
+    <string-array name="group1">
+        <item>All possessions can be classified into either zakatable or non-zakatable
+        wealth. for the purpose of zakat calculation, Muslim scholars have established five
+            categories of zakatable wealth:
+            (a) Personal Zakatable Wealth:
+            this includes money held in retirement and pension accounts.
+            (b)Business Zakatable Wealth:
+            1.Trading goods and liquid assets including business inventory
+            2.Exploited assets such as rented properties and factories
+            (c)Agricultural produce:
+            1.Crops from irrigated land,wherein the irriation system entails costs and labor
+            2.Crops from non-irrigated land watered by rain or natural spings
+        </item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+
+    <string-array name="group3">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+
+    <string-array name="group4">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+
+    <string-array name="group5">
+        <item>ite1</item>
+        <item>ite2</item>
+        <item>ite3</item>
+        <item>ite4</item>
+        <item>ite5</item>
+    </string-array>
+
+
+    <string name="zakat">Zakat</string>
+    <string name="zakat_rules">Zakat Rules</string>
+    <string name="cash">Cash</string>
+    <string name="gold">Gold</string>
+    <string name="asset">Asset</string>
+    <string name="total">Total</string>
+    <string name="zakat_amount">Zakat amount</string>
+    <string name="essential">Essential</string>
+    <string name="conditional"> Terms and Condition</string>
+    <string name="essentialQ_1">What are the catagories of zakatable wealth?</string>
+    <string name="terms_and_condition">A Terms Conditions agreement, also known as a T and C, Terms
+    of Use or Terms of Service,is the legal backbone of the relationship between your mobile app and your users
+    it sets forth clauses that embody the reles, forth clauses that embody the reles, requirement, restrictions
+    and limitation that a user must agree to in order to use your mobile app.</string>
+    <string name="essentialQ_2">Who can receive zakat?</string>
+
+
+</resources>
